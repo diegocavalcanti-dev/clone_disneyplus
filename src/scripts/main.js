@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
             exibeElementosDoHeader();
         }
     })
-        
 
     // Seção de atrações, programação das abas
     for (let i = 0; i < buttons.length; i++) {
